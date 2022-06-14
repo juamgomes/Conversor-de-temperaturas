@@ -24,6 +24,7 @@ h1 {
     font-weight: bold;
     text-transform: uppercase;
     color: #F1F3F6;
+    text-align: center;
 }
 
 .inputs {
@@ -47,15 +48,6 @@ h1 {
     outline: none;
     transition: 0.4s;
     box-shadow: 0 0 1em black;
-}
-
-p{
-    position: absolute;
-    right: 0;
-    bottom: 0;
-    color: #FFF;
-    opacity: 30%;
-    margin: 20px;
 }
 
 .input:focus {
